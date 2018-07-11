@@ -22,8 +22,8 @@
 <pre>
     git clone https://github.com/drewgwallace/docker-dockerfile-telegraf.git
     cd docker-dockerfile-telegraf
-    docker build -t <b>USERNAME/telegraf</b> .
-    docker push <b>USERNAME/telegraf</b>
+    docker build -t <b>USERNAME</b>/telegraf .
+    docker push <b>USERNAME</b>/telegraf
 </pre>   
 
 
