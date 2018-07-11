@@ -8,8 +8,7 @@
 ----
 
 ## Execution
-
-### docker hub <br> https://hub.docker.com/r/drewgwallace/telegraf/
+ 
 <pre>
     docker run \
     -e INFLUX_DATABASE_HOSTNAME="<b>192.168.1.1</b>" \
@@ -26,6 +25,7 @@
     docker push <b>USERNAME</b>/telegraf
 </pre>   
 
+Image on [Docker Hub](https://hub.docker.com/r/drewgwallace/telegraf/)
 
 ----
 
