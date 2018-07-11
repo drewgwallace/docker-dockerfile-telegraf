@@ -25,7 +25,7 @@
     docker push <b>USERNAME</b>/telegraf
 </pre>   
 
-Image on [Docker Hub](https://hub.docker.com/r/drewgwallace/telegraf/)
+### Image on [Docker Hub](https://hub.docker.com/r/drewgwallace/telegraf/)
 
 ----
 
